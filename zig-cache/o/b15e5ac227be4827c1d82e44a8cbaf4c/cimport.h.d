@@ -1,0 +1,22 @@
+cimport.o: \
+  C:/Users/Wolfg/Documents/dev/zig/carlography/zig-cache/o/b15e5ac227be4827c1d82e44a8cbaf4c/cimport.h \
+  C:/Users/Wolfg/Documents/dev/zig/carlography/libs/mach/libs/glfw/upstream/glfw/include/GLFW/glfw3.h \
+  C:/Users/Wolfg/AppData/Roaming/zig/lib/libcxx/include/stddef.h \
+  C:/Users/Wolfg/AppData/Roaming/zig/lib/libcxx/include/__config \
+  C:/Users/Wolfg/AppData/Roaming/zig/lib/include/stddef.h \
+  C:/Users/Wolfg/AppData/Roaming/zig/lib/include/__stddef_max_align_t.h \
+  C:/Users/Wolfg/AppData/Roaming/zig/lib/libcxx/include/stdint.h \
+  C:/Users/Wolfg/AppData/Roaming/zig/lib/include/stdint.h \
+  C:/Users/Wolfg/AppData/Roaming/zig/lib/libc/include/any-windows-any/stdint.h \
+  C:/Users/Wolfg/AppData/Roaming/zig/lib/libc/include/any-windows-any/crtdefs.h \
+  C:/Users/Wolfg/AppData/Roaming/zig/lib/libc/include/any-windows-any/corecrt.h \
+  C:/Users/Wolfg/AppData/Roaming/zig/lib/libc/include/any-windows-any/_mingw.h \
+  C:/Users/Wolfg/AppData/Roaming/zig/lib/libc/include/any-windows-any/_mingw_mac.h \
+  C:/Users/Wolfg/AppData/Roaming/zig/lib/libc/include/any-windows-any/_mingw_secapi.h \
+  C:/Users/Wolfg/AppData/Roaming/zig/lib/include/vadefs.h \
+  C:/Users/Wolfg/AppData/Roaming/zig/lib/libc/include/any-windows-any/vadefs.h \
+  C:/Users/Wolfg/AppData/Roaming/zig/lib/libc/include/any-windows-any/sdks/_mingw_ddk.h \
+  C:/Users/Wolfg/Documents/dev/zig/carlography/libs/mach/libs/glfw/upstream/vulkan_headers/include/vulkan/vulkan.h \
+  C:/Users/Wolfg/Documents/dev/zig/carlography/libs/mach/libs/glfw/upstream/vulkan_headers/include/vulkan/vk_platform.h \
+  C:/Users/Wolfg/Documents/dev/zig/carlography/libs/mach/libs/glfw/upstream/vulkan_headers/include/vulkan/vulkan_core.h \
+  C:/Users/Wolfg/AppData/Roaming/zig/lib/libc/include/any-windows-any/GL/gl.h
